@@ -61,6 +61,9 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/-Metasploit-333333?logo=metasploit&logoColor=white)  
 
+## 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ---
 
 ## 📂 Featured Projects  
@@ -88,7 +91,7 @@
 
 ## 📫 Contact Me  
 - ✉️ Email: **saheed.cybersec@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/saheedcybersec](#)  
+- 💼 LinkedIn: [linkedin.com/in/saheedcybersec](#)
 - 🐙 GitHub: [github.com/saheed-cybersec](#)  
 
 ---
