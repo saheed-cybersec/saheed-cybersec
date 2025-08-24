@@ -77,9 +77,11 @@
 ---
 
 ## 📜 Certifications  
-- ✅ Google Cybersecurity Professional Certificate  
-- 🔒 (In progress) CompTIA Security+  
-- 🔍 (Future plans) CompTIA CySA+  
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/)  
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(In%20Progress)-E01F3D?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)  
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(Future%20Plans)-2E97A7?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)  
+
 
 ---
 
@@ -89,10 +91,12 @@
 
 ---
 
-## 📫 Contact 
-- ✉️ Email: **saheed.cybersec@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/saheedcybersec](https://www.linkedin.com/in/saheedcybersec)
-- 🐙 GitHub: [github.com/saheed-cybersec](https://github.com/saheed-cybersec)  
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saheed.cybersec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saheedcybersec)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saheed-cybersec)
+
 
 ---
 
