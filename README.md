@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Saheed  
+# Hi, I’m Saheed  
 
-🎯 **SOC Analyst (Tier 1) | Mechanical Engineering Graduate | Google Cybersecurity Certified**  
-💡 Passionate about protecting digital systems, solving complex problems, and continuous learning.  
+ **SOC Analyst (Tier 1) | Mechanical Engineering Graduate | Google Cybersecurity Certified**  
+Passionate about protecting digital systems, solving complex problems, and continuous learning.  
 
 ---
 
