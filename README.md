@@ -89,9 +89,9 @@
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact 
 - ✉️ Email: **saheed.cybersec@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/saheedcybersec](www.linkedin.com/in/saheedcybersec)
+- 💼 LinkedIn: [linkedin.com/in/saheedcybersec](https://www.linkedin.com/in/saheedcybersec)
 - 🐙 GitHub: [github.com/saheed-cybersec](https://github.com/saheed-cybersec)  
 
 ---
